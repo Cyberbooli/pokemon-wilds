@@ -738,7 +738,7 @@ Marowak:
  db found, true
  db flip, false
 
-AMarowack:
+Amarowak:
  db i, 453
  db found, true
  db flip, false
@@ -775,5 +775,15 @@ Bellossom:
 
 Drowzee:
  db i, 460
+ db found, true
+ db flip, false
+
+Dusknoir:
+ db i, 461
+ db found, true
+ db flip, true
+
+Dusknoir:
+ db i, 462
  db found, true
  db flip, false
